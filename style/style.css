@@ -161,6 +161,8 @@ body{
     }
     .player{
         flex-direction: column;
+        justify-content: center;
+        align-items: center;
     }
     .main-article{
         grid-template-columns: repeat(1, 1fr);
